@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Kobyopi.github.io/rsschool-cv/cv
