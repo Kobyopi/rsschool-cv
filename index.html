@@ -79,6 +79,28 @@
                     <li>Linux (Various Distributions)</li>
                 </ul>
             </section>
+
+            <section id="code-example">
+                <h2>Code Example</h2>
+                <pre>
+                    <code>
+                        // Example JavaScript function for data processing
+                        function processBookData(books) {
+                            return books.filter(book =&gt; book.available)
+                            .map(book =&gt; ({
+                                title: book.title,
+                                price: book.price,
+                                store: book.store
+                            }))
+                            .sort((a, b) =&gt; a.price - b.price);
+                        }
+
+                        // Usage example
+                        const availableBooks = processBookData(bookDatabase);
+                        console.log('Sorted available books:', availableBooks);
+                    </code>
+                </pre>
+            </section>
         </main>
     </body>
 </html>
