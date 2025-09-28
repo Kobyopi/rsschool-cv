@@ -194,3 +194,26 @@ code {
     font-weight: bold;
 }
 
+/* Projects section */
+#projects ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+#projects ul li {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background: #f8f9ff;
+    border-radius: 8px;
+    border-left: 4px solid #667eea;
+}
+
+#projects ul li a {
+    color: #667eea;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#projects ul li a:hover {
+    text-decoration: underline;
+}
