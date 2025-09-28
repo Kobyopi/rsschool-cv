@@ -37,3 +37,8 @@ Working on event-based services provider website for Georgia that will help comm
 Kutaisi City Hall | October 2024 to December 2024. Georgia, Kutaisi (On-site).
 
 Worked on creating appealing advertisements and informative articles for local and foreign community.
+
+## EDUCATION
+
+**Kutaisi International University**
+Bachelor of Management Marketing with Minor of Computer Science. 2021-2025
