@@ -146,3 +146,37 @@ code {
     font-size: 0.9rem;
     line-height: 1.4;
 }
+
+/* Experience section */
+.job {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    background: #f8f9ff;
+    border-radius: 8px;
+    border-left: 4px solid #667eea;
+}
+
+.job h3 {
+    margin-top: 0;
+    color: #667eea;
+}
+
+.company {
+    font-weight: bold;
+    color: #555;
+    margin: 0.5rem 0;
+}
+
+.location {
+    color: #777;
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+
+.job ul {
+    margin-left: 1.5rem;
+}
+
+.job ul li {
+    margin-bottom: 0.5rem;
+}
