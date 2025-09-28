@@ -217,3 +217,26 @@ code {
 #projects ul li a:hover {
     text-decoration: underline;
 }
+
+/* Contact section */
+.contact-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.contact-list li {
+    margin-bottom: 1rem;
+    padding: 0.8rem;
+    background: #f8f9ff;
+    border-radius: 5px;
+    border-left: 3px solid #667eea;
+}
+
+.contact-list a {
+    color: #667eea;
+    text-decoration: none;
+}
+
+.contact-list a:hover {
+    text-decoration: underline;
+}
