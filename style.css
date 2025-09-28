@@ -180,3 +180,17 @@ code {
 .job ul li {
     margin-bottom: 0.5rem;
 }
+
+/* Education section */
+.education-item {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background: #f8f9ff;
+    border-radius: 8px;
+}
+
+.duration {
+    color: #777;
+    font-weight: bold;
+}
+
