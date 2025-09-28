@@ -42,3 +42,8 @@ Worked on creating appealing advertisements and informative articles for local a
 
 **Kutaisi International University**
 Bachelor of Management Marketing with Minor of Computer Science. 2021-2025
+
+## CONTACT ME
+
+**Email:** [kobyzakarashvili@gmail.com](kobyzakarashvili@gmail.com)
+**LinkedIn:** [Profile](https://www.linkedin.com/in/koby-zakarashvili/)
