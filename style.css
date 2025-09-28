@@ -130,3 +130,19 @@ h3 {
     border-radius: 5px;
     border-left: 3px solid #667eea;
 }
+
+/* Code example section */
+pre {
+    background: #2d3748;
+    color: #e2e8f0;
+    padding: 1.5rem;
+    border-radius: 8px;
+    overflow-x: auto;
+    margin: 1rem 0;
+}
+
+code {
+    font-family: 'Courier New', monospace;
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
