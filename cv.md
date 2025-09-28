@@ -24,3 +24,16 @@ IT, Research, Writing, Record keep, Planning
 **Experience with OS:**
 Microsoft Windows, Linux (Various Distributions)
 
+## CAREER SUMMARY
+
+**Self-Employed Innovator & Developer**
+Startup Group | February 2024 to present. Georgia, Kutaisi, Tbilisi (Remote, On-site).
+
+Developing Georgian platform booksin.ge that helps users, find compare and buy books from leading online stores.
+
+Working on event-based services provider website for Georgia that will help communities and businesses socialize and engage in productive activites.
+
+**Marketing and PR Intern**
+Kutaisi City Hall | October 2024 to December 2024. Georgia, Kutaisi (On-site).
+
+Worked on creating appealing advertisements and informative articles for local and foreign community.
